@@ -1,7 +1,4 @@
-<title>Projetos Simples em HTML, CSS e JS</title>
-</head>
-<body>
-<header>
+
 <h1>🚀 Projetos Simples em HTML, CSS e JS</h1>
  <p>Este repositório contém uma galeria de projetos simples desenvolvidos utilizando HTML, CSS e JavaScript. Cada projeto é uma oportunidade para praticar e aprimorar suas habilidades de desenvolvimento web. Sinta-se à vontade para explorar, contribuir e aprender!</p>
  </header>
