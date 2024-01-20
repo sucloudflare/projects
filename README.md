@@ -1,42 +1,43 @@
-<h1>🚀 Projetos Simples em HTML, CSS e JS</h1>
- <p>Este repositório contém uma galeria de projetos simples desenvolvidos utilizando HTML, CSS e JavaScript. Cada projeto é uma oportunidade para praticar e aprimorar suas habilidades de desenvolvimento web. Sinta-se à vontade para explorar, contribuir e aprender!</p>
- </header>
-  <section id="grocery-list">
-  <h2>Projeto - Grocery List</h2>
-  <p>Um aplicativo de lista de compras simples para ajudar a organizar suas compras. Adicione, remova e marque os itens da sua lista de compras.</p>
-  <h3>Como contribuir 🤝</h3>
-  <p>Consulte o arquivo <code>CONTRIBUICAO.md</code> para obter informações sobre como contribuir para este projeto.</p>
-  </section>
+<h1>🚀 Simple Projects in HTML, CSS, and JS</h1>
+<p>This repository contains a gallery of simple projects developed using HTML, CSS, and JavaScript. Each project is an opportunity to practice and enhance your web development skills. Feel free to explore, contribute, and learn!</p>
+</header>
 
-  <section id="hoverboard">
-  <h2>Projeto - Hoverboard</h2>
-  <p>Uma página com efeitos de hoverboard para elementos específicos. Adicione efeitos visuais interessantes ao passar o mouse sobre diferentes elementos na página.</p>
-  <h3>Como contribuir 🤝</h3>
-  <p>Consulte o arquivo <code>CONTRIBUICAO.md</code> para obter informações sobre como contribuir para este projeto.</p>
-  </section>
+<section id="grocery-list">
+  <h2>Project - Grocery List</h2>
+  <p>A simple shopping list application to help organize your purchases. Add, remove, and check items off your shopping list.</p>
+  <h3>How to Contribute 🤝</h3>
+  <p>Refer to the <code>CONTRIBUTION.md</code> file for information on how to contribute to this project.</p>
+</section>
 
-  <section id="cards">
-  <h2>Projeto - Cards</h2>
-  <p>Crie uma galeria de cartões interativos. Personalize os cartões e adicione funcionalidades interativas usando JavaScript.</p>
-  <h3>Como contribuir 🤝</h3>
-  <p>Consulte o arquivo <code>CONTRIBUICAO.md</code> para obter informações sobre como contribuir para este projeto.</p>
-  </section>
+<section id="hoverboard">
+  <h2>Project - Hoverboard</h2>
+  <p>A page with hoverboard effects for specific elements. Add interesting visual effects when hovering over different elements on the page.</p>
+  <h3>How to Contribute 🤝</h3>
+  <p>Refer to the <code>CONTRIBUTION.md</code> file for information on how to contribute to this project.</p>
+</section>
 
-  <section id="landing-page">
-  <h2>Projeto - Landing Page</h2>
-  <p>Desenvolva uma página de destino envolvente para um produto ou serviço fictício. Utilize boas práticas de design para criar uma experiência atraente.</p>
-  <h3>Como contribuir 🤝
-  </h3>    
-  <p>Consulte o arquivo <code>CONTRIBUICAO.md</code> para obter informações sobre como contribuir para este projeto.</p>
-  </section>
+<section id="cards">
+  <h2>Project - Cards</h2>
+  <p>Create an interactive card gallery. Customize the cards and add interactive features using JavaScript.</p>
+  <h3>How to Contribute 🤝</h3>
+  <p>Refer to the <code>CONTRIBUTION.md</code> file for information on how to contribute to this project.</p>
+</section>
 
-  <section id="login">
-  <h2>Projeto - Login</h2>
-  <p>Crie uma página de login com validação de formulário. Adicione animações e feedback visual para melhorar a experiência do usuário.</p>
-  <h3>Como contribuir 🤝</h3>
-  <p>Consulte o arquivo <code>CONTRIBUICAO.md</code> para obter informações sobre como contribuir para este projeto.</p>
-  </section>
+<section id="landing-page">
+  <h2>Project - Landing Page</h2>
+  <p>Develop an engaging landing page for a fictional product or service. Use good design practices to create an attractive experience.</p>
+  <h3>How to Contribute 🤝</h3>
+  <p>Refer to the <code>CONTRIBUTION.md</code> file for information on how to contribute to this project.</p>
+</section>
 
-  <footer>
-  <p>Nota: Certifique-se de ler e seguir as diretrizes de contribuição no arquivo <code>CONTRIBUICAO.md</code> antes de enviar suas contribuições. Estamos ansiosos para ver suas ideias e melhorias!</p>
-  </footer>
+<section id="login">
+  <h2>Project - Login</h2>
+  <p>Create a login page with form validation. Add animations and visual feedback to enhance the user experience.</p>
+  <h3>How to Contribute 🤝</h3>
+  <p>Refer to the <code>CONTRIBUTION.md</code> file for information on how to contribute to this project.</p>
+</section>
+
+<footer>
+  <p>Note: Be sure to read and follow the contribution guidelines in the <code>CONTRIBUTION.md</code> file before submitting your contributions. We look forward to seeing your ideas and improvements!</p>
+</footer>
+
