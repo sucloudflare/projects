@@ -1,2 +1,51 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+  <h1>Contribuição para o Projeto</h1>
+
+  <p>Seja bem-vindo ao projeto! Estamos felizes que você queira contribuir.</p>
+
+  <h2>Como Contribuir</h2>
+
+  <ol>
+    <li><strong>Fork do Repositório:</strong> Faça um fork deste repositório para sua conta do GitHub clicando no botão "Fork" no canto superior direito.</li>
+
+    <li><strong>Clone o Repositório:</strong> Clone o repositório forkado para o seu computador usando o comando:</li>
+    
+    ```bash
+    git clone https://github.com/seunome/seurepositorio.git
+    ```
+
+    <li><strong>Crie uma Branch:</strong> Crie uma nova branch para suas alterações usando o comando:</li>
+    
+    ```bash
+    git checkout -b nome-da-sua-branch
+    ```
+
+    <li><strong>Faça Suas Alterações:</strong> Faça as alterações desejadas no arquivo `.gitattributes` usando um editor de texto ou IDE de sua escolha.</li>
+
+    <li><strong>Commit das Alterações:</strong> Commit suas alterações usando os comandos:</li>
+
+    ```bash
+    git add .gitattributes
+    git commit -m "Adicionando/modificando .gitattributes"
+    ```
+
+    <li><strong>Envie as Alterações:</strong> Envie suas alterações para o seu repositório fork usando o comando:</li>
+
+    ```bash
+    git push origin nome-da-sua-branch
+    ```
+
+    <li><strong>Pull Request:</strong> Abra um Pull Request (PR) clicando no botão "New Pull Request" na página do seu repositório forkado no GitHub.</li>
+
+    <li><strong>Descreva seu PR:</strong> Forneça uma descrição clara e concisa das alterações que você fez no `.gitattributes`.</li>
+
+    <li><strong>Aguarde a Revisão:</strong> Aguarde que os mantenedores do projeto revisem suas alterações. Pode ser necessário fazer ajustes conforme solicitado pelos revisores.</li>
+
+    <li><strong>Apreciamos Sua Contribuição:</strong> Obrigado por contribuir para o projeto! Sua ajuda é muito valiosa.</li>
+  </ol>
+
+  <h2>Recursos Adicionais</h2>
+
+  <ul>
+    <li><a href="https://docs.github.com/pt/get-started/quickstart/fork-a-repo" target="_blank">Guia do GitHub sobre Forking</a></li>
+    <li><a href="https://docs.github.com/pt/github/collaborating-with-issues-and-pull-requests/about-pull-requests" target="_blank">Guia do GitHub sobre Pull Requests</a></li>
+  </ul>
